@@ -1,0 +1,3 @@
+PROBLEM STATEMENT- 3 ReWear – Community Clothing Exchange Overview: Develop ReWear, a web-based platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. The goal is to promote sustainable fashion and reduce textile waste by encouraging users to reuse wearable garments instead of discarding them.
+
+TEAM NAME: Team Reverie Members: Rubeena Roy, Mokshda Bhatt Mail id: rubeenaroy2020@gmail.com, bhattmokshda4@gmail.com
