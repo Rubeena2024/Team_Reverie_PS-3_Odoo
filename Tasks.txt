@@ -5,9 +5,9 @@ Features:
 1. User Authentication 
 2. Email/password signup and login 
 Landing Page 
-Platform introduction 
-Calls-to-action: “Start Swapping”, “Browse Items”, “List an Item” 
-Featured items carousel 
+3. Platform introduction 
+4. Calls-to-action: “Start Swapping”, “Browse Items”, “List an Item” 
+5. Featured items carousel 
 User Dashboard 
 Profile details and points balance 
 Uploaded items overview 
